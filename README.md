@@ -21,5 +21,5 @@ To use the BMI Calculator App, you need an Android or iOS device running the lat
 If you encounter any issues while using the app, please feel free to open a issue in GitHub.
 
 # Screenshots
-![](./Screenshots/ss1.jpeg)
-![](./Screenshots/ss2.jpeg)
+![Screenshot 1](https://user-images.githubusercontent.com/64163517/219775282-efa89b64-4c2a-4866-bbd1-f4ecaad063a3.jpeg)
+![Screenshot 2](https://user-images.githubusercontent.com/64163517/219775319-8433072d-b27e-405d-a2ef-16f9987209e1.jpeg)
