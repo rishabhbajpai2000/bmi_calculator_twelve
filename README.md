@@ -23,3 +23,12 @@ If you encounter any issues while using the app, please feel free to open a issu
 # Screenshots
 ![Screenshot 1](https://user-images.githubusercontent.com/64163517/219775282-efa89b64-4c2a-4866-bbd1-f4ecaad063a3.jpeg)
 ![Screenshot 2](https://user-images.githubusercontent.com/64163517/219775319-8433072d-b27e-405d-a2ef-16f9987209e1.jpeg)
+
+## Contributing
+Contributions are welcome! Here are a few ways you can contribute:
+
+* Report bugs and suggest enhancements
+* Fix issues and submit pull requests
+* Write and improve documentation
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
